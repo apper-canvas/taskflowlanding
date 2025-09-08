@@ -1,0 +1,90 @@
+[
+  {
+    "Id": 1,
+    "title": "Complete project proposal",
+    "description": "Write and finalize the Q4 marketing campaign proposal with budget breakdown and timeline",
+    "completed": false,
+    "priority": "high",
+    "category": "work",
+    "dueDate": "2024-01-15T00:00:00.000Z",
+    "createdAt": "2024-01-10T10:00:00.000Z",
+    "updatedAt": "2024-01-10T10:00:00.000Z"
+  },
+  {
+    "Id": 2,
+    "title": "Buy groceries for the week",
+    "description": "Milk, eggs, bread, vegetables, and ingredients for meal prep",
+    "completed": false,
+    "priority": "medium",
+    "category": "personal",
+    "dueDate": "2024-01-12T00:00:00.000Z",
+    "createdAt": "2024-01-10T11:00:00.000Z",
+    "updatedAt": "2024-01-10T11:00:00.000Z"
+  },
+  {
+    "Id": 3,
+    "title": "Review code pull requests",
+    "description": "Review pending PRs from team members and provide feedback on implementation",
+    "completed": true,
+    "priority": "high",
+    "category": "work",
+    "dueDate": "2024-01-11T00:00:00.000Z",
+    "createdAt": "2024-01-09T14:00:00.000Z",
+    "updatedAt": "2024-01-11T09:00:00.000Z"
+  },
+  {
+    "Id": 4,
+    "title": "Book dentist appointment",
+    "description": "Schedule routine cleaning and checkup appointment",
+    "completed": false,
+    "priority": "low",
+    "category": "health",
+    "dueDate": "2024-01-20T00:00:00.000Z",
+    "createdAt": "2024-01-10T16:00:00.000Z",
+    "updatedAt": "2024-01-10T16:00:00.000Z"
+  },
+  {
+    "Id": 5,
+    "title": "Plan weekend hiking trip",
+    "description": "Research trails, check weather, prepare equipment and snacks",
+    "completed": false,
+    "priority": "medium",
+    "category": "personal",
+    "dueDate": "2024-01-13T00:00:00.000Z",
+    "createdAt": "2024-01-10T18:00:00.000Z",
+    "updatedAt": "2024-01-10T18:00:00.000Z"
+  },
+  {
+    "Id": 6,
+    "title": "Update portfolio website",
+    "description": "Add recent projects and update skills section with new technologies",
+    "completed": false,
+    "priority": "medium",
+    "category": "work",
+    "dueDate": "2024-01-25T00:00:00.000Z",
+    "createdAt": "2024-01-10T12:00:00.000Z",
+    "updatedAt": "2024-01-10T12:00:00.000Z"
+  },
+  {
+    "Id": 7,
+    "title": "Call mom for birthday plans",
+    "description": "Discuss plans for mom's upcoming birthday celebration and coordinate with family",
+    "completed": true,
+    "priority": "high",
+    "category": "personal",
+    "dueDate": "2024-01-10T00:00:00.000Z",
+    "createdAt": "2024-01-09T20:00:00.000Z",
+    "updatedAt": "2024-01-10T15:00:00.000Z"
+  },
+  {
+    "Id": 8,
+    "title": "Finish reading 'Atomic Habits'",
+    "description": "Complete the remaining chapters and write notes for key takeaways",
+    "completed": false,
+    "priority": "low",
+    "category": "personal",
+    "dueDate": "2024-01-18T00:00:00.000Z",
+    "createdAt": "2024-01-08T21:00:00.000Z",
+    "updatedAt": "2024-01-08T21:00:00.000Z"
+  }
+]
