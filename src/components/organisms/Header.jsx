@@ -37,8 +37,8 @@ const Header = ({
               <div className="w-8 h-8 bg-gradient-to-br from-primary-500 to-secondary-500 rounded-lg flex items-center justify-center flex-shrink-0">
                 <ApperIcon name="CheckSquare" size={18} className="text-white" />
               </div>
-              <h1 className="text-lg font-bold bg-gradient-to-r from-primary-600 to-secondary-600 bg-clip-text text-transparent">
-                TaskFlow
+<h1 className="text-lg font-bold bg-gradient-to-r from-primary-600 to-secondary-600 bg-clip-text text-transparent">
+                Taskflow pro
               </h1>
             </div>
           </div>

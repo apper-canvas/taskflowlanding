@@ -31,7 +31,7 @@ const Sidebar = ({
             <ApperIcon name="CheckSquare" size={18} className="text-white" />
           </div>
           <h1 className="text-xl font-bold bg-gradient-to-r from-primary-600 to-secondary-600 bg-clip-text text-transparent">
-            TaskFlow
+Taskflow pro
           </h1>
         </div>
         {isMobile && (
